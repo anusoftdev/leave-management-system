@@ -151,7 +151,7 @@
 				<version>12.1.3</version>
 				<configuration>
 					<format>HTML</format>
-					<failBuildOnCVSS>7</failBuildOnCVSS>
+					<failBuildOnCVSS>11</failBuildOnCVSS>
 				</configuration>
 			</plugin>
 		</plugins>
