@@ -31,7 +31,8 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
-		<sonar.projectKey>leave-management-service</sonar.projectKey>
+		<sonar.organization>anusoftdev</sonar.organization>
+		<sonar.projectKey>leave-management-system</sonar.projectKey>
 		<sonar.projectName>leave-management-service</sonar.projectName>
 	</properties>
 	<dependencies>
