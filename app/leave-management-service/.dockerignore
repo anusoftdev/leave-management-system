@@ -1,7 +1,29 @@
-target
+# Build tool outputs
+target/
+build/
+out/
+
+# IDE settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Git
 .git
 .gitignore
-.idea
-.vscode
+
+# Docker & CI
+Dockerfile
+.dockerignore
+.github/
+docker-compose.yml
+
+# Logs and temp files
 *.log
-README.md
+help.md
