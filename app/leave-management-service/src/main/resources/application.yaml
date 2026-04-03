@@ -6,9 +6,9 @@ spring:
     name: leave-management-service
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/leave_management
-    username: postgres
-    password: postgres
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/leave_management}
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:postgres}
 
   jpa:
     hibernate:
