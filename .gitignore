@@ -1,0 +1,39 @@
+# Maven
+app/leave-management-service/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Sonar / reports
+.sonar/
+dependency-check-report.html
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Kubernetes / temp
+*.swp
+
+# Mac/Linux temp
+*.tmp
