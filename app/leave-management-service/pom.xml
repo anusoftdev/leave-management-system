@@ -32,7 +32,7 @@
 	<properties>
 		<java.version>21</java.version>
 		<sonar.organization>anusoftdev</sonar.organization>
-		<sonar.projectKey>leave-management-system</sonar.projectKey>
+		<sonar.projectKey>anusoftdev_leave-management-system</sonar.projectKey>
 		<sonar.projectName>leave-management-service</sonar.projectName>
 	</properties>
 	<dependencies>
