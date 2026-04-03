@@ -20,7 +20,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: app
+        working-directory: app/leave-management-service
 
     steps:
       - name: Checkout source code
